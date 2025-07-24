@@ -53,12 +53,12 @@ function Projects() {
       title: "Application for Disease Detection from Fecal Images Using Machine Learning with Accuracy Evaluation",
       ghLink: "https://github.com/NikoAlvinSimanjuntak17/FesesDetection",
     },
-    {
-      id: "Portofolio",
-      imgPath: Portofolio,
-      title: " Build Personal Portfolio Web includes sections for Skills, Projects, Resume, and more, with responsive layout and animations.",
-      ghLink: "https://github.com/NikoAlvinSimanjuntak17/FesesDetection",
-    },
+    // {
+    //   id: "Portofolio",
+    //   imgPath: Portofolio,
+    //   title: " Build Personal Portfolio Web includes sections for Skills, Projects, Resume, and more, with responsive layout and animations.",
+    //   ghLink: "https://github.com/NikoAlvinSimanjuntak17/My-portofolio",
+    // },
 
   ];
 
