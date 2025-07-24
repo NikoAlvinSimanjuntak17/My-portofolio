@@ -2,7 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { Tooltip } from "react-tooltip";
 
-import SQLYOG from "../../../../assets/imgs/techstack/SQLYOG.png";
+import SQLYOG from "../../../../assets/imgs/techstack/sqlyog.png";
 import MySQL from "../../../../assets/imgs/techstack/mysql.png";
 import Firebase from "../../../../assets/imgs/techstack/firebase.png";
 import SQL_Server from "../../../../assets/imgs/techstack/sql_server.png";
