@@ -6,7 +6,7 @@ import React_Image from "../../../../assets/imgs/techstack/react.png";
 import Vue from "../../../../assets/imgs/techstack/vue.png";
 import Codeigniter from "../../../../assets/imgs/techstack/codeigniter.png";
 import Nodejs from "../../../../assets/imgs/techstack/nodejs.png";
-import Laravel from "../../../../assets/imgs/techstack/Laravel.png";
+import Laravel from "../../../../assets/imgs/techstack/laravel.png";
 import Django from "../../../../assets/imgs/techstack/django.png";
 
 const frameworks = [
