@@ -11,6 +11,8 @@ import SIPTA from "../../../../assets/imgs/projects/SIPTA.png";
 import TSTH from "../../../../assets/imgs/projects/tsth.png";
 import FesesDetection from "../../../../assets/imgs/projects/fesesdetection.png";
 import minimarket from "../../../../assets/imgs/projects/minimarket.png";
+import Portofolio from "../../../../assets/imgs/projects/portofolio.png";
+
 
 function Projects() {
   const projectsData = [
@@ -52,9 +54,9 @@ function Projects() {
       ghLink: "https://github.com/NikoAlvinSimanjuntak17/FesesDetection",
     },
     {
-      id: "FesesDetection",
-      imgPath: FesesDetection,
-      title: "Application for Disease Detection from Fecal Images Using Machine Learning with Accuracy Evaluation",
+      id: "Portofolio",
+      imgPath: Portofolio,
+      title: " Build Personal Portfolio Web includes sections for Skills, Projects, Resume, and more, with responsive layout and animations.",
       ghLink: "https://github.com/NikoAlvinSimanjuntak17/FesesDetection",
     },
 
